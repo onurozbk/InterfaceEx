@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ONUR\\Documents\\Visual Studio 2017\\Projects\\InterfaceOnemi\\InterfaceOnemi\\InterfaceOnemi.csproj",
+      "projectUniqueName": "C:\\Users\\ONUR\\test\\InterfaceOnemi\\InterfaceOnemi.csproj",
       "projectName": "InterfaceOnemi",
-      "projectPath": "C:\\Users\\ONUR\\Documents\\Visual Studio 2017\\Projects\\InterfaceOnemi\\InterfaceOnemi\\InterfaceOnemi.csproj",
+      "projectPath": "C:\\Users\\ONUR\\test\\InterfaceOnemi\\InterfaceOnemi.csproj",
       "packagesPath": "C:\\Users\\ONUR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ONUR\\Documents\\Visual Studio 2017\\Projects\\InterfaceOnemi\\InterfaceOnemi\\obj\\",
+      "outputPath": "C:\\Users\\ONUR\\test\\InterfaceOnemi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

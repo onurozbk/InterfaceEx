@@ -6,6 +6,7 @@ namespace InterfaceOnemi
     {
         static void Main(string[] args)
         {
+
             ILoger _loger;
             _loger = new TextLoger();
 
@@ -25,6 +26,14 @@ namespace InterfaceOnemi
         public void Log()
         {
             Console.WriteLine("Database Loglama yapıldı");
+        }
+    }
+
+    public class DigerLogger : ILoger
+    {
+        public void Log()
+        {
+            Console.WriteLine("Diğer Loglama yapıldı.");
         }
     }
     public interface ILoger
