@@ -8,7 +8,7 @@ namespace InterfaceOnemi
         {
 
             ILoger _loger;
-            _loger = new TextLoger();
+            _loger = new TextLoger();//we can choose any logger
 
             _loger.Log();
             Console.ReadLine();
