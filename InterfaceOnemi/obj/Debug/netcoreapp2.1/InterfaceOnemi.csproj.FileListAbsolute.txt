@@ -1,0 +1,11 @@
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\bin\Debug\netcoreapp2.1\InterfaceOnemi.deps.json
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\bin\Debug\netcoreapp2.1\InterfaceOnemi.runtimeconfig.json
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\bin\Debug\netcoreapp2.1\InterfaceOnemi.runtimeconfig.dev.json
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\bin\Debug\netcoreapp2.1\InterfaceOnemi.dll
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\bin\Debug\netcoreapp2.1\InterfaceOnemi.pdb
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.csprojAssemblyReference.cache
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.AssemblyInfoInputs.cache
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.AssemblyInfo.cs
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.dll
+C:\Users\ONUR\Documents\Visual Studio 2017\Projects\InterfaceOnemi\InterfaceOnemi\obj\Debug\netcoreapp2.1\InterfaceOnemi.pdb
